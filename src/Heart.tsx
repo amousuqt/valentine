@@ -1,6 +1,4 @@
 import "./createHeart.css";
-import Video from "./video";
-
 function Heart() {
   const heart = document.createElement("div");
   heart.classList.add("heart");
